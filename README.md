@@ -28,7 +28,7 @@ git clone https://github.com/PaulJara84/Grupo4_Docker_TareaFinal.git
 
 - Navegar a la carpeta descargada
  cd Grupo4_Docker_TareaFinal/
-<img width="886" height="50" alt="imagen" src="https://github.com/user-attachments/assets/33ad0f6a-debf-4eec-91e6-3a51057e306c" />
+<img width="1086" height="151" alt="image" src="https://github.com/user-attachments/assets/ae3b0117-27db-4982-916f-cf7956bfc05e" />
 
 
 ## 🚀 Requisitos previos
