@@ -20,6 +20,16 @@ Este proyecto despliega **Flowise** con una base de datos **PostgreSQL** dedicad
 El objetivo de este trabajo es desplegar una aplicación con Flowise, integrada con su propia base de datos PostgreSQL, utilizando Docker Compose. 
 
 ---
+## 🖥️ Descarga del repositorio
+- Descargar el repositorio
+git clone https://github.com/PaulJara84/Grupo4_Docker_TareaFinal.git
+<img width="1077" height="84" alt="image" src="https://github.com/user-attachments/assets/2df920fd-68db-4ea8-816b-605c1ac34bb0" />
+
+
+- Navegar a la carpeta descargada
+ cd Grupo4_Docker_TareaFinal/
+<img width="886" height="50" alt="imagen" src="https://github.com/user-attachments/assets/33ad0f6a-debf-4eec-91e6-3a51057e306c" />
+
 
 ## 🚀 Requisitos previos
 - Docker instalado
@@ -54,7 +64,7 @@ docker system df
 2. **Liberar espacio de imágenes/volúmenes huérfanos**
 
 ```bash
-docker system prune -af –-volumes
+docker system prune -af --volumes
 ```
 <img width="886" height="789" alt="image" src="https://github.com/user-attachments/assets/ed539125-df58-4177-84b1-f838522829ef" />
   
@@ -150,7 +160,7 @@ docker compose down
 <img width="886" height="105" alt="image" src="https://github.com/user-attachments/assets/a8795069-4d2c-4d74-a4e3-16bb55252814" />
 
 ```bash
-docker compose up -d –build
+docker compose up -d -build
 ```
 <img width="886" height="121" alt="image" src="https://github.com/user-attachments/assets/d497b4e0-af40-40fb-be4c-ba1b259d9071" />
 
